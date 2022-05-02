@@ -1,0 +1,15 @@
+D:\2022 Interview\RomanNumeralConvertor\RomanNumeralConvertor\bin\Debug\RomanNumeralConvertor.exe.config
+D:\2022 Interview\RomanNumeralConvertor\RomanNumeralConvertor\bin\Debug\RomanNumeralConvertor.exe
+D:\2022 Interview\RomanNumeralConvertor\RomanNumeralConvertor\bin\Debug\RomanNumeralConvertor.pdb
+D:\2022 Interview\RomanNumeralConvertor\RomanNumeralConvertor\obj\Debug\RomanNumeralConvertor.csproj.AssemblyReference.cache
+D:\2022 Interview\RomanNumeralConvertor\RomanNumeralConvertor\obj\Debug\RomanNumeralConvertor.csproj.SuggestedBindingRedirects.cache
+D:\2022 Interview\RomanNumeralConvertor\RomanNumeralConvertor\obj\Debug\RomanNumeralConvertor.Form1.resources
+D:\2022 Interview\RomanNumeralConvertor\RomanNumeralConvertor\obj\Debug\RomanNumeralConvertor.Properties.Resources.resources
+D:\2022 Interview\RomanNumeralConvertor\RomanNumeralConvertor\obj\Debug\RomanNumeralConvertor.csproj.GenerateResource.cache
+D:\2022 Interview\RomanNumeralConvertor\RomanNumeralConvertor\obj\Debug\RomanNumeralConvertor.csproj.CoreCompileInputs.cache
+D:\2022 Interview\RomanNumeralConvertor\RomanNumeralConvertor\obj\Debug\RomanNumeralConvertor.exe
+D:\2022 Interview\RomanNumeralConvertor\RomanNumeralConvertor\obj\Debug\RomanNumeralConvertor.pdb
+D:\2022 Interview\RomanNumeralConvertor\RomanNumeralConvertor\bin\Debug\Newtonsoft.Json.dll
+D:\2022 Interview\RomanNumeralConvertor\RomanNumeralConvertor\bin\Debug\Newtonsoft.Json.xml
+D:\2022 Interview\RomanNumeralConvertor\RomanNumeralConvertor\obj\Debug\RomanNumeralConvertor.csproj.CopyComplete
+D:\2022 Interview\RomanNumeralConvertor\RomanNumeralConvertor\obj\Debug\RomanNumeralConvertor.Form2.resources
